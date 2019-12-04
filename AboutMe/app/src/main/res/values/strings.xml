@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="ashley">Ashley</string>
+    <string name="yellow_Star">Yellow star</string>
+    <string name="bio">A long bit of text that spans multiple lines.
+    \n A new line?
+    \n \n Another new line?
+    \n And this is where the fun begins!</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+</resources>
